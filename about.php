@@ -33,25 +33,25 @@
                 </div>
                 <ul class="pq-list-check pq-mb-30">
                     <li class="pq-list-item">
-                        <a href="about-us.html">
+                        <a href="about.php">
                             <i class="ion ion-android-done-all"></i>
                             <span>Pellentesque et felis elementum, varius tellus a, eleifend elit.</span>
                         </a>
                     </li>
                     <li class="pq-list-item">
-                        <a href="about-us.html">
+                        <a href="about.php">
                             <i class="ion ion-android-done-all"></i>
                             <span>Sed ullamcorper enim ut maximus accumsan.</span>
                         </a>
                     </li>
                     <li class="pq-list-item">
-                        <a href="about-us.html">
+                        <a href="about.php">
                             <i class="ion ion-android-done-all"></i>
                             <span>Cras tristique lacus at gravida vulputate.</span>
                         </a>
                     </li>
                     <li class="pq-list-item">
-                        <a href="about-us.html">
+                        <a href="about.php">
                             <i class="ion ion-android-done-all"></i>
                             <span>Fusce consectetur purus ac aliquam aliquet.</span>
                         </a>

@@ -203,7 +203,7 @@ $dataArray = json_decode($jsonData, true);
                               class="fa fa-chevron-down pq-submenu-icon"></i>
                             <ul class="sub-menu">
                               <li class="menu-item">
-                                <a href="about-us.html">About Us</a>
+                                <a href="about.php">About Us</a>
                               </li>
                               <li class="menu-item">
                                 <a href="services.html">Our Services</a>

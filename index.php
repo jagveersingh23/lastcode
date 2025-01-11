@@ -70,7 +70,7 @@
 							--><a
             id="slider-11-slide-36-layer-3"
             class="rs-layer rev-btn"
-            href="about-us.html"
+            href="about.php"
             target="_self"
             data-type="button"
             data-rsp_ch="on"
@@ -218,7 +218,7 @@
 							--><a
             id="slider-11-slide-47-layer-3"
             class="rs-layer rev-btn"
-            href="about-us.html"
+            href="about.php"
             target="_self"
             data-type="button"
             data-rsp_ch="on"
@@ -485,7 +485,7 @@
             </div>
           </div>
         </div>
-        <a href="about-us.html" class="pq-button pq-btn-flat">
+        <a href="about.php" class="pq-button pq-btn-flat">
           <div class="pq-button-block">
             <span class="pq-button-text">Discover More</span>
           </div>
@@ -1504,7 +1504,7 @@
           </div>
         </a>
         <a
-          href="about-us.html"
+          href="about.php"
           class="pq-button pq-btn-flat pq-bg-white pq-mt-30 pq-ml-30">
           <div class="pq-button-block">
             <span class="pq-button-text">Read More</span>
